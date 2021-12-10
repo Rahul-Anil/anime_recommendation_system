@@ -1,0 +1,53 @@
+Week 1
+
+Formed group
+Discussed on which project should be undertaken, decided on making a recommendation system 
+Research on recommendation system and what algorithm/ methodology to be implemented 
+
+Week 2
+
+Worked on finding the dataset, the anime recommendation data set was chosen 
+Worked on and completed working on a program that scrapes images for the front end of all anime in the dataset 
+
+Week 3
+
+working on the project proposal background and information of recommender systems 
+setup discord for the team, for communication of issues.
+with kamakshi edited the jira board and sprints 
+Started researching and looking at documentation for the LightFm package that is to be used for making the hybrind model
+set standards for commit messages 
+
+Week 4
+Worked on cleaning the anime.csv data file and learning about reccomendation systems.
+Worked on the format of data necesary for each col for the front end team 
+
+Week 5
+worked on finishing the cleaning of data for the the presentatiaon this week 
+woked on the inconsistensies in data formatting in anime.csv files that was causing issues
+integrated file in the backend postprocessing made by kan.
+
+Week 6 
+worked on template model for collaborative filtering with demo data 
+collaborative filtering using the real data 
+
+Week 7
+worked on the hybrid model with demo data 
+fixed some bugs in the models
+working on augmentataion for the rating data.
+
+Week 8 
+completed the reccomendation system 
+
+Week 9
+cleaning code on the reccomendation system 
+made the system faster
+comment and document the code  
+applying black formatting specification to all backend python files 
+
+Week 10
+Helping frontend with some bugs with docker and java packages not working together 
+Testing the system and reporting bugs 
+writing comments for backend recommendation code
+documentation for the recommneder system
+filling in the report
+

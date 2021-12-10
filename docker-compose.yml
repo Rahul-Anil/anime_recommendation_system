@@ -1,0 +1,14 @@
+version: "3.3"
+services:
+  back-end:
+    build: ./backend/
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./backend:/backend
+  front-end:
+    build: ./frontend/
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./frontend:/frontend

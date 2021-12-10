@@ -1,0 +1,61 @@
+Week 1
+- Formulate Group in tutorial and meeting members in and out of tutorial session
+- Decision making on choice of Project: Recommender System
+
+Week 2
+- Decision to meet daily for the first week in getting to know one another
+- Worked on Jira: Creating first version of Sprints and User stories
+- Decision on Kaggle Anime Database for overall Project
+- Decision on Dockerizing Solution
+- Worked on System Architecture, mainly providing the first version
+- Worked on Entity Relation Diagram, mainly providing the first version
+
+Week 3
+- Worked on Project Proposal, mainly providing the first version
+- Meetings this wee to clarify parts responsible for each person
+- Continue working on proposal and assist with any questions
+- Discussion on UI and Low fidelity Diagram
+- Meeting with Tatjana - showed first version and seeked feedback
+
+Week 4
+- Assigned tasks for Backend, mainly Database and REST API
+- Discussion on Front End Page - Admin Page structure
+- Prepare for Progressive Demo due next week
+
+Week 5
+- Progressive demo
+- Worked on Front and Backend Integration
+- Built Dockerfile for Front and Backend
+- Built Docker-Compose Yaml for executing both front and Backend
+- Test on Software Requirement VM
+
+Week 6
+- Added Images End Point
+- Reworked on Image processing, adding post processing for resize, and fill in any none
+- Added Column for Images
+- Restructured End points
+
+Week 7
+- Added Search and Query End points for showed
+- Finished CWS 27 Backend Requirement - Filter/Sort
+- Finished CWS 54 Backend Requirement - Score Evaluation
+- Fixing Random List Generator and Merge Conflicts
+
+Week 8
+- Add all other necessary routes for Backend (User, Show, Login, Signup)
+- Fix Template Image Problem - Path issue
+- Fix Backend Database Problem - Path issue
+
+Week 9
+- Add fields for Login Post message - Frontend Reporting
+- Changing Show POST route to /show endpoint
+- Fix Json Serialization Problem 
+- Update User ID Problem
+- Officially COMPLETED backend, including system integration test
+- Preparing Final Report
+
+Week 10
+- Prepare System Integration Test
+- Work on Final Report
+- Test git LFS and other methods
+- Minor Fixes in Docker Integration

@@ -1,0 +1,43 @@
+INFO:root:
+
+existing user hyper parameter tunning
+INFO:root:sample at: 0
+INFO:root:(0.8633808, 0.14359732, 0.5211069864353997, {'learning_schedule': 'adadelta', 'loss': 'warp-kos', 'learning_rate': 0.1463710003034019, 'item_alpha': 2.0217231930778743e-08, 'user_alpha': 3.2410585399535283e-09, 'max_sampled': 8, 'num_epochs': 17}, <lightfm.lightfm.LightFM object at 0x7f12d723a4f0>)
+INFO:root:sample at: 1
+INFO:root:(0.8736862, 0.1554107, 0.5390289627025622, {'learning_schedule': 'adagrad', 'loss': 'warp', 'learning_rate': 0.020561407536425807, 'item_alpha': 6.763701574590394e-09, 'user_alpha': 3.3111911451511102e-09, 'max_sampled': 10, 'num_epochs': 16}, <lightfm.lightfm.LightFM object at 0x7f12d752a9a0>)
+INFO:root:sample at: 2
+INFO:root:(0.86044174, 0.14252922, 0.5167924699000561, {'learning_schedule': 'adadelta', 'loss': 'warp-kos', 'learning_rate': 0.07860645260844194, 'item_alpha': 2.0562294991925182e-08, 'user_alpha': 7.2436342609119196e-09, 'max_sampled': 11, 'num_epochs': 10}, <lightfm.lightfm.LightFM object at 0x7f12d723a4f0>)
+INFO:root:sample at: 3
+INFO:root:(0.7138309, 0.099467926, 0.34876406054640524, {'learning_schedule': 'adagrad', 'loss': 'bpr', 'learning_rate': 0.06489760737210691, 'item_alpha': 8.075411108451837e-09, 'user_alpha': 7.369339379056692e-10, 'max_sampled': 5, 'num_epochs': 14}, <lightfm.lightfm.LightFM object at 0x7f12d752a9a0>)
+INFO:root:sample at: 4
+INFO:root:(0.8602273, 0.1461138, 0.5344138203076648, {'learning_schedule': 'adadelta', 'loss': 'warp-kos', 'learning_rate': 0.03906237004140389, 'item_alpha': 1.3959376783116923e-08, 'user_alpha': 3.8677095299292564e-08, 'max_sampled': 9, 'num_epochs': 14}, <lightfm.lightfm.LightFM object at 0x7f12d723a4f0>)
+INFO:root:sample at: 5
+INFO:root:(0.7633101, 0.084104806, 0.3145370625870432, {'learning_schedule': 'adadelta', 'loss': 'bpr', 'learning_rate': 0.011770511679823705, 'item_alpha': 1.8862890069173303e-08, 'user_alpha': 1.806795293387665e-08, 'max_sampled': 5, 'num_epochs': 14}, <lightfm.lightfm.LightFM object at 0x7f12d752a9a0>)
+INFO:root:sample at: 6
+INFO:root:(0.8621092, 0.14581865, 0.5312442813448356, {'learning_schedule': 'adadelta', 'loss': 'warp-kos', 'learning_rate': 0.001423200269517442, 'item_alpha': 2.8635593527262024e-08, 'user_alpha': 4.626987945568482e-08, 'max_sampled': 8, 'num_epochs': 12}, <lightfm.lightfm.LightFM object at 0x7f12d723a4f0>)
+INFO:root:sample at: 7
+INFO:root:(0.74234015, 0.10733591, 0.3815554405200407, {'learning_schedule': 'adagrad', 'loss': 'bpr', 'learning_rate': 0.013062577678288535, 'item_alpha': 5.278307524690218e-08, 'user_alpha': 4.6460315052456246e-09, 'max_sampled': 9, 'num_epochs': 11}, <lightfm.lightfm.LightFM object at 0x7f12d752a9a0>)
+INFO:root:sample at: 8
+INFO:root:(0.864041, 0.1457435, 0.5311169407656122, {'learning_schedule': 'adadelta', 'loss': 'warp-kos', 'learning_rate': 0.0002390208233072873, 'item_alpha': 1.22874495217327e-08, 'user_alpha': 7.229359990461737e-09, 'max_sampled': 7, 'num_epochs': 16}, <lightfm.lightfm.LightFM object at 0x7f12d723a4f0>)
+INFO:root:sample at: 9
+INFO:root:(0.72053, 0.102835506, 0.36109350232304266, {'learning_schedule': 'adagrad', 'loss': 'bpr', 'learning_rate': 0.028094169617383383, 'item_alpha': 4.624652158680407e-09, 'user_alpha': 1.0416496712486666e-09, 'max_sampled': 14, 'num_epochs': 7}, <lightfm.lightfm.LightFM object at 0x7f12d752a9a0>)
+INFO:root:sample at: 10
+INFO:root:(0.822582, 0.12586452, 0.4580674696272889, {'learning_schedule': 'adagrad', 'loss': 'bpr', 'learning_rate': 0.0006077689953862308, 'item_alpha': 9.088502184627121e-09, 'user_alpha': 1.0475889348221713e-09, 'max_sampled': 12, 'num_epochs': 6}, <lightfm.lightfm.LightFM object at 0x7f12d723a4f0>)
+INFO:root:sample at: 11
+INFO:root:(0.88145304, 0.15310827, 0.539773258166741, {'learning_schedule': 'adadelta', 'loss': 'warp', 'learning_rate': 0.02071566024085057, 'item_alpha': 5.177178379341112e-09, 'user_alpha': 2.3534337506487532e-08, 'max_sampled': 7, 'num_epochs': 11}, <lightfm.lightfm.LightFM object at 0x7f12d752a9a0>)
+INFO:root:sample at: 12
+INFO:root:(0.85591847, 0.14399351, 0.5265633533655663, {'learning_schedule': 'adadelta', 'loss': 'warp-kos', 'learning_rate': 0.02633276545608672, 'item_alpha': 6.800786499447863e-09, 'user_alpha': 1.0054229267658876e-08, 'max_sampled': 14, 'num_epochs': 12}, <lightfm.lightfm.LightFM object at 0x7f12d723a4f0>)
+INFO:root:sample at: 13
+INFO:root:(0.68224525, 0.09714011, 0.34021386255401603, {'learning_schedule': 'adagrad', 'loss': 'bpr', 'learning_rate': 0.15863774618032253, 'item_alpha': 3.196639587637139e-08, 'user_alpha': 7.884937397962344e-09, 'max_sampled': 9, 'num_epochs': 17}, <lightfm.lightfm.LightFM object at 0x7f12d752a9a0>)
+INFO:root:sample at: 14
+INFO:root:(0.8744975, 0.14756016, 0.5258553215450993, {'learning_schedule': 'adadelta', 'loss': 'warp', 'learning_rate': 0.023181163363886193, 'item_alpha': 1.3564395378248561e-09, 'user_alpha': 6.726983499615516e-09, 'max_sampled': 10, 'num_epochs': 16}, <lightfm.lightfm.LightFM object at 0x7f12d723a4f0>)
+INFO:root:sample at: 15
+INFO:root:(0.8760039, 0.15250154, 0.5444049446234284, {'learning_schedule': 'adadelta', 'loss': 'warp', 'learning_rate': 0.01770415309902462, 'item_alpha': 2.929317386439988e-09, 'user_alpha': 4.13486413972525e-09, 'max_sampled': 13, 'num_epochs': 5}, <lightfm.lightfm.LightFM object at 0x7f12d752a9a0>)
+INFO:root:sample at: 16
+INFO:root:(0.8759879, 0.1561762, 0.5400983121054275, {'learning_schedule': 'adagrad', 'loss': 'warp', 'learning_rate': 0.018941176361002413, 'item_alpha': 9.448864318177859e-09, 'user_alpha': 4.682740511841898e-08, 'max_sampled': 7, 'num_epochs': 15}, <lightfm.lightfm.LightFM object at 0x7f12d723a4f0>)
+INFO:root:sample at: 17
+INFO:root:(0.8636691, 0.14616556, 0.5258073121466642, {'learning_schedule': 'adagrad', 'loss': 'warp-kos', 'learning_rate': 0.06736830519627339, 'item_alpha': 1.192365256575897e-09, 'user_alpha': 1.365416347703557e-08, 'max_sampled': 6, 'num_epochs': 6}, <lightfm.lightfm.LightFM object at 0x7f12d752a9a0>)
+INFO:root:sample at: 18
+INFO:root:(0.8645058, 0.14600676, 0.5322429534956659, {'learning_schedule': 'adadelta', 'loss': 'warp-kos', 'learning_rate': 0.0457525207633385, 'item_alpha': 5.635605871266788e-10, 'user_alpha': 3.617310901531257e-08, 'max_sampled': 10, 'num_epochs': 6}, <lightfm.lightfm.LightFM object at 0x7f12d723a4f0>)
+INFO:root:sample at: 19
+INFO:root:(0.8772496, 0.15019858, 0.533908581764189, {'learning_schedule': 'adadelta', 'loss': 'warp', 'learning_rate': 0.17015116482623682, 'item_alpha': 5.557657516450572e-09, 'user_alpha': 1.0092836545452811e-08, 'max_sampled': 5, 'num_epochs': 13}, <lightfm.lightfm.LightFM object at 0x7f12d752a9a0>)

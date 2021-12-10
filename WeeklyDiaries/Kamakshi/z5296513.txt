@@ -1,0 +1,45 @@
+Week1
+I got introduced to my new team members and learned about their strengths which might help us achieve our project goals.
+
+Week2
+Volunteered and assumed the role of scrum master.
+I decided to start working on the proposal and develop a draft by next week's tutorial.
+Parallelly, I organized product backlog, user stories with my teammates.
+I attended daily sprint calls.
+
+Week3
+I created channels on Discord to ease the mode of communication to relay information.
+Set up Github with Rahul for our team members and decided to maintain it together,
+I initiated the sprint planning activities-assigned appropriate tasks, story point estimates to user stories.
+I worked towards the completion of proposal-reviewing, formatting, and designing user interaction flow.
+
+Week4
+Worked on tasks which entails to progressive Demo A
+Designed database and updated the column types to unify front-end and back-end.
+Looked for solutions to connect fron-end and back-end.
+Prepared slides for demo.
+
+Week5
+Planned Sprint2 Activities
+
+Week6
+Organised retrospective meeting
+created retro A report
+integrated front end and back end and still working
+
+Week7
+Worked on system integration - was able to finish most of the basic functionalities for the users.
+
+Work8
+Worked on creating restrospective B document with final edits by Kan.
+Picked up Admin related user stories CWS32 and CWS33 UI and integration with backend
+
+Work9
+Worked on CWS35 - connecting graph with backend
+Worked on CWS27 that is connecting filter buttons with backend
+Worked on Fixing application Ui and integration bugs mainly on main page and admin screens
+
+Work10
+Ended Sprint Activities
+Demonstrated our final product
+Submitted our code and Final report

@@ -1,0 +1,81 @@
+Week 1
+-------------------------
+- Formed group
+- Discussed on which project should be undertaken, the whole team decided to make a anime recommendation system.
+- Chose my role to be a front end dev for the whole project as i am experienced in it. 
+
+Week 2
+-------------------------
+
+- Started working on the Lo-fi UI prototype for the project. 
+- Started working on the proposal along with team mates. 
+- Researched on the best front end language to use for our project.
+- Started Learning Docker for the project.
+- Updated Jira tasks for the week
+
+Week 3
+-------------------------
+
+- Completed Lo-Fi Prototype on balsamiq for Proposal. 
+- Researched on the best component package or library for React.js to be used. 
+- Started designing Hi-Fi Prototype for the recommendation project on figma. 
+- Updated jira Tasks for the week
+
+Week 4
+-------------------------
+
+- Completed Hi-Fi Prototype in Figma for project.
+- Started coding in react the first two pages (MAIN PAGE, FOR YOU PAGE)
+- Coded the Search page and researched about connecting the front-end to backend using API.
+
+Week 5
+-------------------------
+
+- Completed coding the Main Page/Search Page,For You page. 
+- Started working on the settings and admin panel. 
+- Worked on Completion of Hi-Fi Prototype for Sign Up Page for Payment Information for Luyang to code it. 
+- Completed Updating Daily Tasks. 
+
+Week 6
+--------------------------
+
+- Completed Coding of the Popup page for Titles
+- Completed Coding of the Settings page Static
+- Changed the Main Page to Scroll to display more content. 
+- Cleaned Up Existing code
+- Updated Jira and Diary
+
+Week 7
+--------------------------
+- Completed Coding of the Drop Down Box on the main Page.
+- Completed Coding of the User Settings Page
+- Linked the main page to user setting.
+- Completed Coding od admin page (Static)
+- Cleaned the main page code.
+- Updated Jira Tasks and Diary.
+
+Week 8
+--------------------------
+- Completed Coding for the admin Page Screen
+- Completed Front end of User settings and Prompts
+- Completed Front End Code for Genre Selection in user Settings
+- Cleaned up Home Screen Code and Changed the main Page to Carousel and Added 10 Tiles. 
+- Cleaned Up Existing For you Page code and Added Carousel and 10 Tiles.
+
+Week 9
+--------------------------
+- Completed Front end code and functionality for Genre Selction under the search bar.
+- Completed Front end for User genre Preference Chart under for you. 
+- Fixes Integration errors in user settings and changed the home button function wherever necessary
+- Changed fonts and styling and fixed padding wherever possible. 
+- Worked with Luyang on integration with the backend API. 
+- Completed Front end code for search functionality and Sort. 
+
+Week 10
+--------------------------
+- Completed All Sprints
+- Fixed UI Bugs (Search Bar,Genre Selector,Chart Integration,Admin Panel, Valdiation errors)
+- Fixed Login/Signup Asset.
+- Completed Presentation and Project Submission with Report
+
+

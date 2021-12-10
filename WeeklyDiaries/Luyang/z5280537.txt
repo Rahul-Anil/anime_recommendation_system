@@ -1,0 +1,58 @@
+Week 1
+
+We formed group in Wednesday and have a meeting to decide the topic in Friday. 
+The topic now is the Project 5 - E-Commerce Recommender System.
+
+Week 2
+Decide to meet everyday
+Choose to do a recommender system for movies
+Find an appropriate database; 
+Discuss the proposal- what is done and  what is remaining.
+Allocate user stories and tasks
+Estimates for user stories
+
+Week 3
+Start to write the proposal
+I am mainly responsible for the system architecture.
+Discuss how to allocate the future code work
+
+Week 4
+Assign tasks for progressive demo
+I am responsible for some front pages
+
+Week 5
+Edit front pages for progressive demo
+Show the progressive demo one in lab
+Code login and sign in page for frontend
+Test the router system of the frontend
+Test API system
+
+Week 6
+Complete code for login page
+Complete code for signup page
+Complete code for subscription page
+Complete code for payment page
+Complete code for confirm page
+Update the router system
+
+Week 7
+Work on system integration
+Edit the UI of some frontend pages
+
+Week 8
+Complete code for preference page
+Work on system integration
+
+Week 9
+Work on system integration
+Update API system for User Setting
+Update UI for some pages
+Add alerts for some pages
+
+Week 10
+Work on system integration
+Update UI for some pages
+Update error message system for authentication
+Completed All Sprints
+Prepare for final demo
+Completed final report

@@ -1,0 +1,13 @@
+numpy==1.17.3
+pandas==0.25.2
+sklearn
+kaggle
+Flask
+flask-restx
+requests
+flask-cors
+names
+beautifulsoup4
+tqdm
+opencv-python
+scipy
